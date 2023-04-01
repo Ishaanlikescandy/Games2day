@@ -1,5 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/Games2day/main/Games2day.png)
 # Games
 ## Coming Soon
-This game is coming soon
-![alt text](https://img.shields.io/badge/Download-Coming%20Soon-success)
+![alt text](https://img.shields.io/badge/Download%20for%20Windows-Coming%20Soon-success)
+This game is **coming soon**
