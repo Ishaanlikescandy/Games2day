@@ -3,4 +3,4 @@
 ## Coming Soon
 This game is **coming soon**
 
-[![Website](https://img.shields.io/badge/Windows%20Download-Coming%20Soon-success? color=blue&label=Visit%20Official%20Website&logo=github&style=for-the-badge)](https://bedrocklauncher.github.io/)
+[![Website](https://img.shields.io/badge/Windows%20Download-Coming%20Soon-success? (https://google.com/)
