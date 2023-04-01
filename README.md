@@ -1,5 +1,3 @@
-hi
-i am too sussy
-hello
-brih
-aksjf
+#hi
+#i am too
+#sussy
