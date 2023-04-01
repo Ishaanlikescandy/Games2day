@@ -2,4 +2,4 @@
 # Games
 ## Coming Soon
 This game is coming soon
-! [alt_text](https://img.shields.io/badge/Download-Coming%20Soon-success)
+![alt text](https://img.shields.io/badge/Download-Coming%20Soon-success)
