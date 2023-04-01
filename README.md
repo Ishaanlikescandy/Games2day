@@ -3,4 +3,4 @@
 ## Coming Soon
 This game is **coming soon**
 
-[![Website](https://img.shields.io/badge/Download%20for%20Windows-Coming%20Soon-success? (https://google.com/)
+![Website](https://img.shields.io/badge/Download%20for%20Windows-Coming%20Soon-success? (https://google.com/)
