@@ -7,3 +7,6 @@
 This game is **coming soon**
 #####
 ![alt text](https://img.shields.io/badge/Download-Windows-blue)
+![alt text](https://img.shields.io/badge/Download-Mac-orange)
+![alt text](https://img.shields.io/badge/Download-Linux-success)
+![alt text](https://img.shields.io/badge/Play-Online-red)
